@@ -6,3 +6,4 @@ contains beginner introduction to nodejs
 3.  even emitter {on, emit}
 4.  readline
 5. file system module
+6. readable and writeable stream
